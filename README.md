@@ -1,6 +1,6 @@
 ### Hi there 👋
+https://github.com/ntsakiso95/ntsakiso95/blob/main/README.md
 
-<!--
 **ntsakiso95/ntsakiso95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
